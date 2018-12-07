@@ -1,2 +1,2 @@
 # Complete-Me
-The binary search tree project
+## A binary search tree
