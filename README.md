@@ -11,4 +11,4 @@ This binary search tree is also fully tested.
 
 Authored by...
 
-LeeLee Graham
+(LeeLee Graham)[https://github.com/TwirlingGoddess/]
